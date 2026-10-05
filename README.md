@@ -1,3 +1,11 @@
+# Retired · Railway Master Template
+
+Retired on 2026-10-05 by Dusty's instruction. Do not use for new projects. The maintained replacement is [Mono starters](https://github.com/MonoByGit/mono-starters), with separate lightweight web and service profiles. Access to the private replacement repository is required.
+
+This repository is preserved as recoverable history and is archived read-only. Existing applications are not changed by this retirement. The historical claims and instructions below are not current deployment guidance.
+
+---
+
 # Railway Master Template - Mono Foundation
 
 > **Production-ready Next.js template voor Railway deployment**
@@ -308,3 +316,4 @@ Built with:
 **Ready to build something amazing?** 🚀
 
 Start with: `npm install && npm run dev`
+
